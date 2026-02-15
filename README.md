@@ -24,7 +24,10 @@ pizzas, average order values, and overall sales efficiency. Key insights and rec
 support menu optimization, marketing strategies, and revenue growth, providing actionable guidance for 
 business decision-making.
 
-## Business Problem
+## Problem Statement
+The pizza business is experiencing fluctuations in sales and revenue across different pizza categories, sizes, and time periods. Due to the lack of clear insights into customer ordering patterns, peak sales, and top-performing products, it is difficult for the business to optimize inventory management, staffing, and marketing strategies.
+
+This project aims to analyze pizza sales data to identify sales trends, top and bottom selling pizzas by revenue, quantity, orders, revenue contribution by pizza category and size, and time-based ordering patterns to support data-driven decision-making and improve menu optimization and overall business performance.
 ### 1) KPI Requirements:
 1. What is the total revenue generated during the selected period? 
 2. What is the average order value (AOV)? 
