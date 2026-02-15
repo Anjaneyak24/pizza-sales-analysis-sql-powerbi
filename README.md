@@ -3,7 +3,8 @@
 Analyzing pizza sales data to identify top-selling pizzas, revenue trends, and provide actionable insights using Power BI and SQL.
 ## Table of Contents
 - [Overview](#overview)
-- [Business Problem](#business-problem)
+- [Problem Statement](#problem-statement)
+- [Client Requirements](#client-requirements)
 - [Dataset Details](#dataset-details)
 - [Tools & Technologies](#tools--technologies)
 - [Project Structure](#project-structure)
@@ -27,7 +28,9 @@ business decision-making.
 ## Problem Statement
 The pizza business is experiencing fluctuations in sales and revenue across different pizza categories, sizes, and time periods. Due to the lack of clear insights into customer ordering patterns, peak sales, and top-performing products, it is difficult for the business to optimize inventory management, staffing, and marketing strategies.
 
-This project aims to analyze pizza sales data to identify sales trends, top and bottom selling pizzas by revenue, quantity, orders, revenue contribution by pizza category and size, and time-based ordering patterns to support data-driven decision-making and improve menu optimization and overall business performance.
+My objective was to analyze pizza sales data to identify sales trends, top and bottom selling pizzas by revenue, quantity, orders, revenue contribution by pizza category and size, and time-based ordering patterns to support data-driven decision-making and improve menu optimization and overall business performance.
+
+## Client Requirements
 ### 1) KPI Requirements:
 1. What is the total revenue generated during the selected period? 
 2. What is the average order value (AOV)? 
